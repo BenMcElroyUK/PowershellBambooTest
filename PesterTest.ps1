@@ -1,6 +1,7 @@
 ﻿function new-testfolder
 {
     "ANOTHER FUNCTION!"
+    '%password_1%'
 }
 
 
